@@ -4,8 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Mario
-middle_name: Crespo
-last_name: Ávila
+last_name: Crespo Ávila
 contact_note: >
   For any inquiries, the best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -142,15 +141,14 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  output: false
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -263,7 +261,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Crespo Ávila]
+  last_name: [Crespo, Ávila]
   first_name: [Mario, M.]
 
   style: apa
