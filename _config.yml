@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Linguistics of Surfing # blog_name will be displayed in your blog page
 blog_description: Where waves and words break together
-permalink: "/blog/:year/:title/"
-lsi: true # produce an index for related posts
+permalink: /blog/:year/:title/
+lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
@@ -124,8 +124,8 @@ external_sources:
     rss_url: https://medium.com/@mariocrespoling/feed
   - name: Google Blog
     posts:
-      - url: # put yours
-        published_date: # put yours 2024-05-14
+      - url: https://www.xataka.com/ # put yours
+        published_date: 2024-05-14 # put yours
 
 # -----------------------------------------------------------------------------
 # Newsletter
