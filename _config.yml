@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Linguistics of Surfing # blog_name will be displayed in your blog page
 blog_description: Where waves and words break together
-permalink: /blog/:year/:title/
+permalink: "/blog/:year/:title/"
 lsi: true # produce an index for related posts
 
 # Pagination
