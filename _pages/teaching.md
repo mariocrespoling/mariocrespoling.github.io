@@ -1,12 +1,28 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: RESEARCH
 description: Materials for courses you taught. Replace this text with your description.
-nav: false
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Research Interests
+Sociolinguistics of Subcultures │ Linguistic Anthropology │ Corpus Linguistics │ Language Contact (Spanish/English) │ Spatial Humanities (GIS) │ Computational Linguistics (NLP) │ Linguistics of Surfing
 
-Organize your courses by years, topics, or universities, however you like!
+Methodological Toolkit
+· 🎙️ Ethnography & Linguistic Anthropology: Participant-observation, semi-structured interviews, and community-based research practices.
+
+· 📚 Corpus Linguistics & Language Documentation: Building and annotating multimedia, geolocalized linguistic corpora from fieldwork data.
+
+· 🗺️ Spatial Humanities & GIS: Using GIS software (QGIS/ArcGIS) for digital mapping and the analysis of spatial patterns in cultural data.
+
+· 💻 Computational Sociolinguistics & NLP: Applying NLP models for quantitative text analysis, pattern recognition, and data visualization.
+
+Illustrative Project: The Peninsular Surf Atlas
+
+To illustrate how I integrate these interests and methodologies, a project I am currently developing is the "Peninsular Surf Atlas." This project proposes the first comparative digital ethnography of two of Spain's foundational surf communities: Somo, Cantabria, and Zarautz, Basque Country.
+
+The core of the project is the creation of an interactive, geolocalized corpus to explore how a shared global identity is shaped by distinct local sociolinguistic and cultural practices. This "digital atlas" would combine ethnographic data with computational analysis, serving as a new type of open-access resource for cultural analytics.
+
+I am passionate about this line of inquiry and I am eager to develop and refine this or similar research projects under the guidance of a faculty advisor whose expertise can help shape its final direction.
