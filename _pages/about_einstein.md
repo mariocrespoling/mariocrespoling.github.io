@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My fascination with how communities create meaning through language began in my linguistics degree at the Complutense University of Madrid. This led me to explore the technical tools to analyze it at scale, through intensive training at MITx and my work with the ACL. My fieldwork in the north of Spain confirmed my passion for ethnography, and my academic experiences in Belgium, Finland, Poland, and Italy broadened my european perspective. Now, I aim to synthesize these skills —linguistics, data science, and ethnography— to explore the vibrant global subculture of surfing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I'm not working on my research, you can probably find me trying to understand that culture firsthand. 🏄‍♂️
