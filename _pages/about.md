@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: HOME
 permalink: /
 subtitle: Combining ethnographic fieldwork with computational methods to analyze the sociolinguistics of global subcultures.
 
