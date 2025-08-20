@@ -14,7 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    <p>IT and Language Lab</p>
-    <p>Philology, UCM</p>
-    <p>Madrid, Spain 28040</p>
+      <p>IT and Language Lab</p>
+      <p>Philology, UCM</p>
+      <p>Madrid, Spain 28040</p>
 ---
