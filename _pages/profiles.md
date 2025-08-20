@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /ABOUT/
-title: About me
-description: members of the lab or group
+permalink: /about/
+title: ABOUT
+description: me
 nav: true
 nav_order: 7
 
