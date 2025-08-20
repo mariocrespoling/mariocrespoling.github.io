@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /ABOUT/
 title: About me
 description: members of the lab or group
 nav: true
@@ -14,7 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>IT and Language Lab</p>
+      <p>Faculty of Philology, UCM</p>
+      <p>Madrid, Spain 28040</p>
 ---
