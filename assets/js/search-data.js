@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-home",
+    title: "HOME",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -15,13 +15,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-about",
-          title: "ABOUT",
-          description: "me",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/about/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
