@@ -32,3 +32,7 @@ I am a final-year Linguistics scholar (UCM) building an interdisciplinary profil
 My work combines ethnographic fieldwork ([U. Helsinki](https://blogs.helsinki.fi/saals62024/), Somo & Zarautz surf spots), computational methods ([MITx](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data), [ACL](https://aclanthology.org/volumes/2024.iwclul-1/)), and spatial analysis ([UNA, Costa Rica](https://www.geo.una.ac.cr/index.php/diplomado)) to create novel digital resources for cultural and linguistic research.
 
 I am passionate about using data-driven approaches to explore how global communities build local identities.
+
+Research Interests
+
+Sociolinguistics of Subcultures │ Linguistic Anthropology │ Corpus Linguistics │ Language Contact (Spanish/English) │ Spatial Humanities (GIS) │ Computational Linguistics (NLP) │ Linguistics of Surfing
