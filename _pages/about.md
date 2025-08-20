@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: PHD APPLICANT IN LINGUISTICS (USA)
+subtitle: RESEARCHER IN CORPUS LINGUISTICS AND LANGUAGE DOCUMENTATION
 
 profile:
   align: right
