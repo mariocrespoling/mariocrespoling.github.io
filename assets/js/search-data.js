@@ -55,21 +55,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%61%72%69%6F%63%72%65%73%70%6F%6C%69%6E%67[%61%74]%67%6D%61%69%6C[%64%6F%74]%63%6F%6D", "_blank");
+          window.open("mailto:%6D%61%72%69%6F%63%72%65%73%70%6F%6C%69%6E%67@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-linkedin_id',
-        title: 'Linkedin_id',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/mariocrespoling", "_blank");
         },
       },{
         id: 'social-scholar',
