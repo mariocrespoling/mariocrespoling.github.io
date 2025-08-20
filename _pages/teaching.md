@@ -7,10 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-Research Interests
-Sociolinguistics of Subcultures │ Linguistic Anthropology │ Corpus Linguistics │ Language Contact (Spanish/English) │ Spatial Humanities (GIS) │ Computational Linguistics (NLP) │ Linguistics of Surfing
-
 Methodological Toolkit
+
 · 🎙️ Ethnography & Linguistic Anthropology: Participant-observation, semi-structured interviews, and community-based research practices.
 
 · 📚 Corpus Linguistics & Language Documentation: Building and annotating multimedia, geolocalized linguistic corpora from fieldwork data.
