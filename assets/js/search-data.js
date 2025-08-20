@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-about-me",
-          title: "About me",
-          description: "members of the lab or group",
+        },{id: "nav-about",
+          title: "ABOUT",
+          description: "me",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/ABOUT/";
+            window.location.href = "/about/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
