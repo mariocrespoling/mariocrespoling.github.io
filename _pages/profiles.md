@@ -17,4 +17,6 @@ profiles:
       <p>IT and Language Lab</p>
       <p>Philology, UCM</p>
       <p>Madrid, Spain 28040</p>
+
+social: true # includes social icons at the bottom of the page
 ---
