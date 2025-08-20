@@ -9,15 +9,15 @@ nav_order: 4
 
 Methodological Toolkit
 
-· 🎙️ Ethnography & Linguistic Anthropology: Participant-observation, semi-structured interviews, and community-based research practices.
+· 🎙️ `Ethnography & Linguistic Anthropology`: Participant-observation, semi-structured interviews, and community-based research practices.
 
-· 📚 Corpus Linguistics & Language Documentation: Building and annotating multimedia, geolocalized linguistic corpora from fieldwork data.
+· 📚 `Corpus Linguistics & Language Documentation`: Building and annotating multimedia, geolocalized linguistic corpora from fieldwork data.
 
-· 🗺️ Spatial Humanities & GIS: Using GIS software (QGIS/ArcGIS) for digital mapping and the analysis of spatial patterns in cultural data.
+· 🗺️ `Spatial Humanities & GIS`: Using GIS software (QGIS/ArcGIS) for digital mapping and the analysis of spatial patterns in cultural data.
 
-· 💻 Computational Sociolinguistics & NLP: Applying NLP models for quantitative text analysis, pattern recognition, and data visualization.
+· 💻 `Computational Sociolinguistics & NLP`: Applying NLP models for quantitative text analysis, pattern recognition, and data visualization.
 
-Illustrative Project: The Peninsular Surf Atlas
+Illustrative Project: `The Peninsular Surf Atlas`
 
 To illustrate how I integrate these interests and methodologies, a project I am currently developing is the "Peninsular Surf Atlas." This project proposes the first comparative digital ethnography of two of Spain's foundational surf communities: Somo, Cantabria, and Zarautz, Basque Country.
 
