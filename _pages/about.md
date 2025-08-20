@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>IT and Language Lab, Philology</p>
-    <p>Plaza de Menéndez Pelayo</p>
+    <p>IT and Language Lab</p>
+    <p>Philology, UCM</p>
     <p>Madrid, Spain 28040</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
