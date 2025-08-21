@@ -33,8 +33,8 @@ My work combines ethnographic fieldwork ([U. Helsinki](https://blogs.helsinki.fi
 
 I am passionate about using data-driven approaches to explore how global communities build local identities.
 
-Research Interests
+`Research Interests`
 
 Corpus Linguistics │ Language Documentation │ Computational Sociolinguistics │ Sociophonetics | Language Contact │ Linguistic Geography │ Linguistics of Surfing
 
-Combining ethnographic fieldwork with computational methods to analyze the sociolinguistics of global subcultures.
+`Combining ethnographic fieldwork with computational methods to analyze the sociolinguistics of global subcultures.`
