@@ -35,6 +35,6 @@ I am passionate about using data-driven approaches to explore how global communi
 
 Research Interests
 
-Sociolinguistics of Subcultures │ Linguistic Anthropology │ Corpus Linguistics │ Language Contact (Spanish/English) │ Spatial Humanities (GIS) │ Computational Linguistics (NLP) │ Linguistics of Surfing
+Corpus Linguistics │ Language Documentation │ Computational Sociolinguistics │ Sociophonetics | Language Contact │ Linguistic Geography │ Linguistics of Surfing
 
 Combining ethnographic fieldwork with computational methods to analyze the sociolinguistics of global subcultures.
